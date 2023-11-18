@@ -1,5 +1,5 @@
 # kaggle-courses  
-Kaggle course files: https://www.kaggle.com/
-
-1 - Kaggle course files, identified by folders  
+Kaggle course files: https://www.kaggle.com/  
+Kaggle course files, identified by folders  
+1 - Python
 https://www.kaggle.com/learn/python
